@@ -6,4 +6,4 @@
 
 == Run
 
-`node connect.js && node importkey.js && node query.js && node send.js && node deploy.js && node call.js
+`node connect.js && node importkey.js && node query.js && node send.js && node deploy.js && node call.js`
